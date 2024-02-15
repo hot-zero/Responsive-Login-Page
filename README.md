@@ -1,6 +1,6 @@
 Responsive Login Page by HTML, CSS and JavaScript.
 
-Video toterial on My YouTube:
+Video tutorial on My YouTube: https://youtu.be/Yxlg8mxOfv8
 
 
 
